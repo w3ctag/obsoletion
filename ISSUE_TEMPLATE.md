@@ -1,5 +1,3 @@
-**DRAFT** ISSUE TEMPLATE; NOT YET READY FOR USE
-
 Hello TAG!
 
 I'm requesting that the TAG consider the following specification
