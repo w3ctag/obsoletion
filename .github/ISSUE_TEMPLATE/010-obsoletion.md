@@ -14,6 +14,7 @@ I'm requesting that the TAG consider the following specification:
 
 be considered by the TAG for (choose one; see [§6.9 Obsoleting or Rescinding a W3C Recommendation](https://www.w3.org/Consortium/Process/#rec-rescind) of the Process for what this means):
   - [ ] obsoleting (of a W3C Recommendation)
+  - [ ] superseding (of a W3C Recommendation)
   - [ ] rescinding (of a W3C Recommendation)
   - [ ] restoring (of an Obsolete W3C Recommendation)
 
@@ -30,3 +31,7 @@ The following implementations of this specification are known:
 
 [If data on the amount of use of this specification is available,
 please describe it.]
+
+If the recommended action is superseding, the newer version that
+supersedes it is:
+  - [specification name](specification url)
