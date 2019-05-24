@@ -1,14 +1,21 @@
+---
+name: Obsoletion
+about: If you want the TAG to agree to obsolete, rescind, or restore a W3C Recommendation
+title: ''
+labels: 'Progress: untriaged'
+assignees: ''
+
+---
+
 Hello TAG!
 
-I'm requesting that the TAG consider the following specification
-  - Name: [specification name]
-  - Specification URL: [spec url]
+I'm requesting that the TAG consider the following specification:
+  - [specification name](specification url)
 
-be considered by the TAG for (choose one):
+be considered by the TAG for (choose one; see [§6.9 Obsoleting or Rescinding a W3C Recommendation](https://www.w3.org/Consortium/Process/#rec-rescind) of the Process for what this means):
   - [ ] obsoleting (of a W3C Recommendation)
   - [ ] rescinding (of a W3C Recommendation)
   - [ ] restoring (of an Obsolete W3C Recommendation)
-(see [§6.9 Obsoleting or Rescinding a W3C Recommendation](https://www.w3.org/Consortium/Process/#rec-rescind) of the Process for what this means)
 
 [rationale for why the above action should be taken]
 
